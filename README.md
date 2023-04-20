@@ -32,7 +32,7 @@ It took me 14 years, over 30 GPs and 10 gynaecologists, losing jobs, partners an
 
 In lieu of a biomarker, a cure or updates in the way conditions like Endometriosis are taught in medical school, tech can help us create a data set that cannot be dismissed.
 
-We're all Ova it.
+We're Ova it.
 
 
 
