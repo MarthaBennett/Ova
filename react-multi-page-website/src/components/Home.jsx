@@ -1,4 +1,5 @@
 import React from "react";
+import homepage from "../images/homepage.jpg";
 
 function Home() {
   return (
@@ -8,14 +9,16 @@ function Home() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
+              src={homepage}
+              alt="an anatomical diagram of the vulva"
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Home</h1>
+            <h1 class="font-weight-light">Ova</h1>
             <p>
-              Ova. An app to help you get diagnosed quicker. 
+              An app to help you get diagnosed sooner. 
+
+
             </p>
           </div>
         </div>
