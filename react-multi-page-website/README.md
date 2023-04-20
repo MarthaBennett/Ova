@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Ova
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### What is it?
 
-## Available Scripts
+An app to help people get diagnosed with Endometriosis, Adenomyosis, PCOS and related health conditions sooner.
 
-In the project directory, you can run:
+### How does it work?
 
-### `npm start`
+Log your symptoms in your diary to build up a data set that doctors can't ignore. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Ova helps you to track the frequency, severity, location and type of pain to help make a case for investigations.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Ova is not intended to be a diagnostic or medical tool in itself: it is to assist patients in making a case for further exploration with their GP or a gynaecologist.
 
-### `npm test`
+### What are the features?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Diary to log symptoms
+- Personal profile showing symptom data trends
+- Information about common gynaecological conditions
+- Diagnosis and treatment pathway information 
+- Case studies and stories of hope
 
-### `npm run build`
+### Why does Ova exist?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In the UK, it currently takes an average of 8 years for someone to be diagnosed with Endometriosis. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Endometriosis affects 1 in 10 people with wombs so it is as common as Asthma or Diabetes, yet there is very little research or funding awarded to the condition. There are over 178 million people living with Endometriosis in the world today.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+In lieu of a biomarker, a cure or updates in the way conditions like Endometriosis are taught in medical school, tech can help us create a data set that cannot be dismissed.
 
-### `npm run eject`
+We're Ova it.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
