@@ -28,7 +28,7 @@ Endometriosis affects 1 in 10 people with wombs so it is as common as Asthma or 
 
 Endometriosis is not life-threatening, but it is life-limiting. It can compromise someone's fertility, prevent them from working or socialising and/or cause a host of unpleasant symptoms such as vomiting, fainting, painful sex, migraines, depression, bowel issues, acute pain month-round and nerve damage. 
 
-It took me 14 years, over 30 GPs and 10 Gynaecologists, losing jobs, partners and the ability to walk before I was diagnosed with Endometriosis. It was a further 3 years before I received medical care on the NHS. I'm keen to make sure that those coming after me do not have to fight so hard for a diagnosis and care.
+It took me 14 years, over 30 GPs and 10 gynaecologists, losing jobs, partners and the ability to walk before I was diagnosed with Endometriosis. It was a further 3 years before I received medical care on the NHS. I'm keen to make sure that those coming after me do not have to fight so hard for a diagnosis and care.
 
 In lieu of a biomarker, a cure or updates in the way conditions like Endometriosis are taught in medical school, tech can help us create a data set that cannot be dismissed.
 
